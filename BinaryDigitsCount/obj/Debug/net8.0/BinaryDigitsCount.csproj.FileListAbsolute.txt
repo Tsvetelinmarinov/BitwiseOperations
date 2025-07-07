@@ -1,0 +1,14 @@
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BinaryDigitsCount\bin\Debug\net8.0\BinaryDigitsCount.exe
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BinaryDigitsCount\bin\Debug\net8.0\BinaryDigitsCount.deps.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BinaryDigitsCount\bin\Debug\net8.0\BinaryDigitsCount.runtimeconfig.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BinaryDigitsCount\bin\Debug\net8.0\BinaryDigitsCount.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BinaryDigitsCount\bin\Debug\net8.0\BinaryDigitsCount.pdb
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BinaryDigitsCount\obj\Debug\net8.0\BinaryDigitsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BinaryDigitsCount\obj\Debug\net8.0\BinaryDigitsCount.AssemblyInfoInputs.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BinaryDigitsCount\obj\Debug\net8.0\BinaryDigitsCount.AssemblyInfo.cs
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BinaryDigitsCount\obj\Debug\net8.0\BinaryDigitsCount.csproj.CoreCompileInputs.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BinaryDigitsCount\obj\Debug\net8.0\BinaryDigitsCount.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BinaryDigitsCount\obj\Debug\net8.0\refint\BinaryDigitsCount.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BinaryDigitsCount\obj\Debug\net8.0\BinaryDigitsCount.pdb
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BinaryDigitsCount\obj\Debug\net8.0\BinaryDigitsCount.genruntimeconfig.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BinaryDigitsCount\obj\Debug\net8.0\ref\BinaryDigitsCount.dll
