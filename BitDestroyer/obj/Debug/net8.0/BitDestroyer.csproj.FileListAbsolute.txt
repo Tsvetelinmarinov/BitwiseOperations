@@ -1,0 +1,15 @@
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\bin\Debug\net8.0\BitDestroyer.exe
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\bin\Debug\net8.0\BitDestroyer.deps.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\bin\Debug\net8.0\BitDestroyer.runtimeconfig.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\bin\Debug\net8.0\BitDestroyer.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\bin\Debug\net8.0\BitDestroyer.pdb
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\obj\Debug\net8.0\BitDestroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\obj\Debug\net8.0\BitDestroyer.AssemblyInfoInputs.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\obj\Debug\net8.0\BitDestroyer.AssemblyInfo.cs
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\obj\Debug\net8.0\BitDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\obj\Debug\net8.0\BitDestroyer.sourcelink.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\obj\Debug\net8.0\BitDestroyer.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\obj\Debug\net8.0\refint\BitDestroyer.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\obj\Debug\net8.0\BitDestroyer.pdb
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\obj\Debug\net8.0\BitDestroyer.genruntimeconfig.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\BitDestroyer\obj\Debug\net8.0\ref\BitDestroyer.dll
