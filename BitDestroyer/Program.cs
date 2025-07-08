@@ -11,7 +11,7 @@ class Program
         int position = int.Parse(Console.ReadLine()!);
 
         string binary = Converter.ConvertToBinary(number);
-        binary = Converter.ModifyBit(binary, position);
+        binary = Converter.SetBitToNegative(binary, position);
         double result = Converter.ConvertToDecimal(binary);
 
         Console.WriteLine(result);

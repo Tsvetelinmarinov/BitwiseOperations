@@ -36,7 +36,7 @@ namespace BitDestroyer
 
             return decimalBits.Sum();
         }
-        public static string ModifyBit(string binary, int bitPosition)
+        public static string SetBitToNegative(string binary, int bitPosition)
         {
             List<int> bits = new();
             foreach (char bit in binary)
@@ -45,6 +45,17 @@ namespace BitDestroyer
             }
 
             bits[bits.Count - 1 - bitPosition] = 0;
+            return string.Join("", bits);
+        }
+        public static string SetBitToPositive(string binary, int bitPosition)
+        {
+            List<int> bits = new();
+            foreach (char bit in binary)
+            {
+                bits.Add(int.Parse(bit.ToString()));
+            }
+
+            bits[bits.Count - 1 - bitPosition] = 1;
             return string.Join("", bits);
         }
         public static int GetBitAt(string binary, int bitPosition)
@@ -63,6 +74,17 @@ namespace BitDestroyer
             {
                 return -1;
             }
+        }
+        public static int GetBitValue(string binary, int bitPosition)
+        {
+            List<int> bits = new();
+            foreach (char bit in binary)
+            {
+                bits.Add(int.Parse(bit.ToString()));
+            }
+
+            return bits[bits.Count - 1 - bitPosition] == 0 ? 
+                0 : 1;
         }
     }
 }
