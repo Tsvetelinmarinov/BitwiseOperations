@@ -4,7 +4,7 @@
 
 namespace BitDestroyer
 {
-    class Converter
+    public class Converter
     {
         public static string ConvertToBinary(int number) 
         {
@@ -46,6 +46,23 @@ namespace BitDestroyer
 
             bits[bits.Count - 1 - bitPosition] = 0;
             return string.Join("", bits);
+        }
+        public static int GetBitAt(string binary, int bitPosition)
+        {
+            List<byte> bits = new();
+            foreach (char bit in binary)
+            {
+                bits.Add(byte.Parse(bit.ToString()));
+            }
+
+            if (!string.IsNullOrWhiteSpace(binary) && bitPosition >= 0)
+            {
+                return bits[bits.Count - 1 - bitPosition];
+            }
+            else
+            {
+                return -1;
+            }
         }
     }
 }
