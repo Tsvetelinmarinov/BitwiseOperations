@@ -1,0 +1,15 @@
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\bin\Debug\net8.0\OddTimes.exe
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\bin\Debug\net8.0\OddTimes.deps.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\bin\Debug\net8.0\OddTimes.runtimeconfig.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\bin\Debug\net8.0\OddTimes.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\bin\Debug\net8.0\OddTimes.pdb
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\obj\Debug\net8.0\OddTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\obj\Debug\net8.0\OddTimes.AssemblyInfoInputs.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\obj\Debug\net8.0\OddTimes.AssemblyInfo.cs
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\obj\Debug\net8.0\OddTimes.csproj.CoreCompileInputs.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\obj\Debug\net8.0\OddTimes.sourcelink.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\obj\Debug\net8.0\OddTimes.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\obj\Debug\net8.0\refint\OddTimes.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\obj\Debug\net8.0\OddTimes.pdb
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\obj\Debug\net8.0\OddTimes.genruntimeconfig.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\BitwiseOperations\Solution\BitwiseOperations\OddTimes\obj\Debug\net8.0\ref\OddTimes.dll
